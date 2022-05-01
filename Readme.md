@@ -1,3 +1,3 @@
-**Proyecto de Fizzbuzz**
+**Proyecto de Fizzbuzz API**
 
 ---
